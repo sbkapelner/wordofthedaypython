@@ -10,5 +10,5 @@ beautifulsoup4==4.9.3
 
 ### Usage
 pip install -r requirements.txt
-python lang.py
+python lang.py\
 It is recommendedd to run the script on a server and schedule a cron job to run it daily.
